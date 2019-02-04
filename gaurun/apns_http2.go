@@ -11,9 +11,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ken0nek/buford/payload"
-	"github.com/ken0nek/buford/payload/badge"
-	"github.com/ken0nek/buford/push"
+	"github.com/RobotsAndPencils/buford/payload"
+	"github.com/RobotsAndPencils/buford/payload/badge"
+	"github.com/RobotsAndPencils/buford/push"
 
 	"golang.org/x/net/http2"
 )
